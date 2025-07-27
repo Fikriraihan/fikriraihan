@@ -1,6 +1,6 @@
 # Hi there, I'm Fikri 👋
 
-I'm a Front-End Developer from Indonesia with 3+ years of experience building scalable web apps — currently working at **PT Planet Selancar Mandiri** (Planet Surf). Lately, I've been diving into **AI-powered tooling and automation**, using technologies like **LangChain**, **OpenAI**, and **n8n** to build intelligent interfaces and workflows.
+I'm a Front-End Developer from Indonesia with 3+ years of experience building scalable web apps — currently working at **PT Planet Selancar Mandiri** (Planet Surf). Lately, I've been diving into **AI-powered tooling and automation**, using technologies like **LangChain**, **OpenAI**, **MCP**, and **n8n** to build intelligent interfaces and workflows.
 
 ---
 
