@@ -26,9 +26,7 @@ I'm a passionate **Front-End Developer** from Indonesia with 2+ years of experie
 ### 📫 Let's connect!
 
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/fikriraihan)
-- 💬 Email: fikri.raihan4@gmail.com
+- 💬 [Reach me via email](mailto:fikri.raihan4@gmail.com)
 - 🌐 [Portfolio Website](https://fikri-portofolio.netlify.app/)
 
 ---
-
-> Fun fact: I can talk about programming for hours and still want more — especially when it's about building something useful for others. Let's build awesome things together!
