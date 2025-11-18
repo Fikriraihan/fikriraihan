@@ -5,13 +5,18 @@ I'm a Front-End Developer from Indonesia with 3+ years of experience building sc
 ---
 
 ### 💻 Tech Stack
-- **Front-End**: React, Vite, Next.js, TypeScript, TailwindCSS, Ant Design
-- **State Management**: Zustand, Redux
-- **Animations**: Framer Motion, Three.js
-- **API & Data**: React Query, Axios, Supabase
-- **ORM**: Prisma, Drizzle
-- **Backend Familiarity**: Node.js, Python (learning), Docker
-- **Automation & AI**: n8n, OpenAI SDK, MCP, Pinecone, LangChain, RAG
+- **Front-End**: HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Next.js, Angular, Tailwind CSS, Vite, Storybook.
+- **UI Component Libraries**: Shadcn/ui, Ant Design, Material UI (MUI), Bootstrap, Mantine.
+- **State Management**: Redux, Zustand.
+- **Form & Validation**: Zod, React Hook Form.
+- **Animation**: Framer Motion, Three.js.
+- **API & Data**: React Query, Axios, Supabase.
+- **Testing**: Jest, React Testing Library
+- **ORM**: Prisma, Drizzle.
+- **Backend Familiarity**: Node.js, Express.js, Python, Python.
+- **AI & Automation**: n8n, OpenAI SDK, MCP, Pinecone, LangChain, RAG.
+- **Tools**: Git, Docker, Figma, Framer, Cursor
+- **Project Management & Methodologies**: Agile, Scrum, Notion, Jira, Redmine, GitHub, GitLab.
 
 ---
 
